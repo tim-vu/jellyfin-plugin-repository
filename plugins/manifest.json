@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "7714068a-7f34-4a14-a059-595e98e2abe4",
+        "name": "Theme Loader",
+        "description": "Theme Loader stores self-contained theme ZIP packages and applies the selected CSS during Jellyfin Web's initial load. Theme assets are served from Jellyfin, package references are validated before install, and themes can cover early screens such as login without showing the base theme first. Requires File Transformation.\n",
+        "overview": "Load packaged CSS themes into Jellyfin",
+        "owner": "timvu",
+        "category": "General",
+        "versions": [
+            {
+                "version": "0.1.0.1",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/tim-vu/jellyfin-plugin-theme-loader/releases/download/v0.1.0.1/theme-loader_0.1.0.1.zip",
+                "checksum": "3886bbe25277d8e7fdf01efd4a6f6c72",
+                "timestamp": "2026-05-30T18:16:10Z"
+            }
+        ]
+    }
+]
+
