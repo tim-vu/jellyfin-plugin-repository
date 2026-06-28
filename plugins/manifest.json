@@ -16,6 +16,23 @@
                 "timestamp": "2026-05-30T18:16:10Z"
             }
         ]
+    },
+    {
+        "guid": "7b3f1b70-4d0e-4d9d-a92d-5e2f632b91c1",
+        "name": "Continue Watching",
+        "description": "Updates Jellyfin's default resume list to work like you expect it to. Works with and without IAmParadox27's Home Screen Sections plugin. Supported by all clients.\n",
+        "overview": "Continue Watching updates Jellyfin's default resume list to work like you expect it to",
+        "owner": "timvu",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.0.1.0",
+                "changelog": "Initial release\n",
+                "targetAbi": "10.11.11.0",
+                "sourceUrl": "https://github.com/tim-vu/jellyfin-plugin-continue-watching/releases/download/v1.0.1.0/continue-watching_1.0.1.0.zip",
+                "checksum": "e154f9174d1f4464ab0ad6598941be72",
+                "timestamp": "2026-06-28T20:05:28Z"
+            }
+        ]
     }
 ]
-
