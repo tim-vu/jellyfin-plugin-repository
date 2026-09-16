@@ -26,6 +26,14 @@
         "category": "General",
         "versions": [
             {
+                "version": "1.1.1.0",
+                "changelog": "Add support for Jellyfin v12.1\n",
+                "targetAbi": "12.1.0.0",
+                "sourceUrl": "https://github.com/tim-vu/jellyfin-plugin-continue-watching/releases/download/v1.1.1.0/continue-watching_1.1.1.0.zip",
+                "checksum": "7c8e91a2fc51f75ddfbbb97c86257313",
+                "timestamp": "2026-09-16T10:45:28Z"
+            },
+            {
                 "version": "1.1.0.0",
                 "changelog": "Add support for Jellyfin v12.0-rc2\n",
                 "targetAbi": "12.0.0.0",
